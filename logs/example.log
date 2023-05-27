@@ -1,0 +1,435 @@
+2023-03-10T15:13:01.380Z [winston custom format] info: Events Error: Unauthenticated user
+2023-03-10T15:17:04.768Z [winston custom format] info: Events Error: Unauthenticated user
+2023-03-10T15:27:26.041Z [winston custom format] info: Accepted getUsers Operation
+2023-03-10T15:28:32.076Z [winston custom format] info: Success Create user operation
+2023-03-10T15:29:14.362Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-03-10T17:01:34.776Z [winston custom format] info: Accepted getUsers Operation
+2023-03-10T17:02:20.194Z [winston custom format] info: Accepted getUsers Operation
+2023-03-10T17:02:57.862Z [winston custom format] info: Accepted getUsers Operation
+2023-03-10T17:03:04.850Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-03-10T17:03:26.993Z [winston custom format] info: Success get user operation
+2023-03-10T17:03:36.643Z [winston custom format] info: Success get user operation
+2023-03-10T17:04:26.616Z [winston custom format] info: Success Create user operation
+2023-03-27T15:15:46.978Z [winston custom format] info: Accepted getUsers Operation
+2023-03-27T15:16:26.023Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-03-27T15:16:35.036Z [winston custom format] info: Success Create user operation
+2023-03-27T15:17:06.398Z [winston custom format] info: Success Create user operation
+2023-03-27T15:17:35.351Z [winston custom format] info: Success get user operation
+2023-03-27T15:30:57.045Z [winston custom format] info: Success get user operation
+2023-03-27T15:32:25.267Z [winston custom format] info: Success get user operation
+2023-03-27T15:35:36.868Z [winston custom format] info: Success delete operation
+2023-03-27T16:02:31.315Z [winston custom format] info: Accepted getUsers Operation
+2023-03-27T16:02:35.483Z [winston custom format] info: Success Create user operation
+2023-03-27T16:02:39.628Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-03-27T16:02:43.805Z [winston custom format] info: Success get user operation
+2023-03-27T16:02:52.984Z [winston custom format] info: Success delete operation
+2023-04-07T07:50:11.372Z [winston custom format] info: Accepted getUsers Operation
+2023-04-07T07:50:14.205Z [winston custom format] info: Accepted getUsers Operation
+2023-04-07T07:50:41.781Z [winston custom format] info: Accepted getUsers Operation
+2023-04-07T08:05:06.308Z [winston custom format] info: Success Create user operation
+2023-04-07T08:07:06.938Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-04-07T08:07:33.303Z [winston custom format] info: Success Create user operation
+2023-04-07T08:07:43.109Z [winston custom format] error: Error while trying to create try agin <ValidationError>
+2023-04-07T08:07:54.204Z [winston custom format] error: Error while trying to create try agin <ValidationError>
+2023-04-07T08:07:57.782Z [winston custom format] error: Error while trying to create try agin <ValidationError>
+2023-04-07T08:08:02.503Z [winston custom format] info: Success Create user operation
+2023-04-07T08:20:45.731Z [winston custom format] info: Success Create user operation
+2023-04-07T08:21:35.206Z [winston custom format] info: Accepted getUsers Operation
+2023-04-07T08:33:09.006Z [winston custom format] info: Accepted getUsers Operation
+2023-04-07T08:34:33.462Z [winston custom format] info: Success update
+2023-04-07T08:45:13.193Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-04-07T08:45:22.018Z [winston custom format] info: Success Create user operation
+2023-04-07T08:53:16.357Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-04-07T08:58:45.300Z [winston custom format] info: Success update
+2023-04-07T08:59:05.278Z [winston custom format] info: Success update
+2023-04-07T09:02:54.216Z [winston custom format] info: Success Create user operation
+2023-04-07T09:03:06.156Z [winston custom format] info: Success update
+2023-04-07T09:03:29.221Z [winston custom format] info: Success update
+2023-04-07T09:08:02.837Z [winston custom format] error: Error while trying to create try agin <TypeError>
+2023-04-07T09:12:16.198Z [winston custom format] info: Success update
+2023-04-07T09:13:15.597Z [winston custom format] error: Error while trying to create try agin <Error>
+2023-04-07T09:15:21.525Z [winston custom format] info: Success update
+2023-04-07T09:15:24.293Z [winston custom format] info: Success update
+2023-04-07T09:15:45.465Z [winston custom format] info: Success update
+2023-04-07T09:16:02.646Z [winston custom format] info: Success delete operation
+2023-04-07T12:51:32.491Z [winston custom format] info: Success delete operation
+2023-04-07T12:52:58.555Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-04-07T12:54:34.793Z [winston custom format] error: Not verified token
+2023-04-07T12:54:50.573Z [winston custom format] error: Not verified token
+2023-04-07T12:56:15.904Z [winston custom format] error: Not verified token
+2023-04-07T12:56:49.160Z [winston custom format] error: Not verified token
+2023-04-07T12:58:01.358Z [winston custom format] error: Not verified token
+2023-04-07T12:58:31.504Z [winston custom format] error: Not verified token
+2023-04-07T13:00:26.710Z [winston custom format] error: Not verified token
+2023-04-07T13:01:26.661Z [winston custom format] error: Not verified token
+2023-04-07T13:02:04.994Z [winston custom format] error: Not verified token
+2023-04-07T13:03:43.713Z [winston custom format] error: Not verified token
+2023-04-07T13:05:20.220Z [winston custom format] error: Not verified token
+2023-04-07T13:05:37.458Z [winston custom format] error: Not verified token
+2023-04-07T13:06:04.812Z [winston custom format] error: Not verified token
+2023-04-07T13:06:42.758Z [winston custom format] info: Success update
+2023-04-07T13:09:00.411Z [winston custom format] error: Not verified token
+2023-04-07T13:09:17.136Z [winston custom format] error: Not verified token
+2023-04-07T13:10:05.765Z [winston custom format] error: Not verified token
+2023-04-07T13:18:07.868Z [winston custom format] info: verified password
+2023-04-07T13:18:50.190Z [winston custom format] info: verified password
+2023-04-07T13:19:21.095Z [winston custom format] error: Not verified token
+2023-04-07T13:19:41.781Z [winston custom format] error: Not verified token
+2023-04-07T13:20:20.411Z [winston custom format] error: Not verified token
+2023-04-07T13:22:29.470Z [winston custom format] info: verified password
+2023-04-07T13:23:05.677Z [winston custom format] error: Not verified token
+2023-04-07T13:24:00.184Z [winston custom format] error: Not verified token
+2023-04-07T13:24:24.306Z [winston custom format] error: Not verified token
+2023-04-07T13:26:33.764Z [winston custom format] info: verified password
+2023-04-07T13:31:33.869Z [winston custom format] error: Not verified token
+2023-04-07T13:32:01.130Z [winston custom format] error: Not verified token
+2023-04-07T13:32:34.372Z [winston custom format] error: Not verified token
+2023-04-07T13:33:20.188Z [winston custom format] error: Not verified token
+2023-04-07T13:33:37.803Z [winston custom format] info: verified password
+2023-04-07T13:33:43.237Z [winston custom format] info: verified 
+2023-04-07T13:33:48.376Z [winston custom format] info: verified 
+2023-04-07T13:34:43.335Z [winston custom format] info: verified 
+2023-04-07T13:35:11.868Z [winston custom format] info: verified 
+2023-04-07T13:37:23.820Z [winston custom format] info: verified 
+2023-04-07T13:39:11.532Z [winston custom format] error: Not verified token
+2023-04-07T13:39:23.700Z [winston custom format] info: verified password
+2023-04-07T13:39:50.658Z [winston custom format] error: Not verified token
+2023-04-07T13:40:11.716Z [winston custom format] error: Not verified token
+2023-04-07T13:40:46.627Z [winston custom format] error: Not verified token
+2023-04-07T13:41:21.487Z [winston custom format] error: Not verified token
+2023-04-07T13:41:57.305Z [winston custom format] error: Not verified token
+2023-04-07T13:42:19.998Z [winston custom format] error: Not verified token
+2023-04-07T14:28:42.810Z [winston custom format] error: Not verified token
+2023-04-07T14:29:43.437Z [winston custom format] error: Not verified token
+2023-04-07T14:30:49.516Z [winston custom format] info: verified password
+2023-04-07T14:31:03.461Z [winston custom format] error: Not verified token
+2023-04-07T14:32:14.881Z [winston custom format] error: Not verified token
+2023-04-07T14:32:46.180Z [winston custom format] error: Not verified token
+2023-04-07T14:37:39.884Z [winston custom format] error: Not verified token
+2023-04-07T14:41:53.649Z [winston custom format] error: Not verified token
+2023-04-07T14:42:13.582Z [winston custom format] info: verified password
+2023-04-07T14:53:54.794Z [winston custom format] error: Not verified token
+2023-04-07T14:55:16.958Z [winston custom format] info: verified password
+2023-04-07T14:57:24.263Z [winston custom format] info: verified password
+2023-04-07T15:00:23.968Z [winston custom format] info: verified password
+2023-04-07T15:00:54.085Z [winston custom format] info: verified password
+2023-04-07T15:05:09.353Z [winston custom format] info: verified password
+2023-04-07T15:05:22.628Z [winston custom format] info: verified password
+2023-04-07T15:10:17.962Z [winston custom format] info: verified password
+2023-04-07T15:10:26.381Z [winston custom format] info: verified password
+2023-04-07T15:10:48.418Z [winston custom format] info: verified password
+2023-04-07T15:17:39.953Z [winston custom format] info: verified password
+2023-04-07T15:19:00.163Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-04-07T15:20:42.312Z [winston custom format] info: Success Create user operation
+2023-04-07T15:21:01.039Z [winston custom format] info: Success get user operation
+2023-04-07T15:21:16.582Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-04-07T15:22:10.046Z [winston custom format] info: Success delete operation
+2023-04-07T15:22:51.856Z [winston custom format] error: No User Found with this email
+2023-04-07T15:32:01.239Z [winston custom format] info: Success Create user operation
+2023-04-07T15:32:14.937Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-04-07T15:35:41.380Z [winston custom format] info: Success delete operation
+2023-04-07T15:35:47.881Z [winston custom format] info: Success Create user operation
+2023-04-07T15:38:04.198Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-04-07T15:38:14.798Z [winston custom format] info: Success get user operation
+2023-04-07T15:38:40.160Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-04-07T15:38:47.373Z [winston custom format] info: Success update
+2023-04-07T15:39:24.558Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-04-07T15:40:21.725Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-04-07T15:41:02.351Z [winston custom format] info: Success get user operation
+2023-04-07T15:41:07.649Z [winston custom format] info: Success get user operation
+2023-04-07T15:41:44.560Z [winston custom format] info: verified password
+2023-04-07T15:42:09.843Z [winston custom format] error: No User Found with this email
+2023-04-07T15:43:49.013Z [winston custom format] info: Success get user operation
+2023-04-07T15:52:03.477Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-04-07T15:55:24.336Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-04-07T15:55:52.821Z [winston custom format] info: Success Create user operation
+2023-04-07T15:56:09.712Z [winston custom format] info: Success get user operation
+2023-04-07T15:58:53.329Z [winston custom format] info: Success get user operation
+2023-04-07T15:59:08.293Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-04-07T15:59:20.961Z [winston custom format] info: Success update
+2023-04-07T16:00:06.499Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-04-07T16:01:33.418Z [winston custom format] info: Success get user operation
+2023-04-07T16:03:04.543Z [winston custom format] info: verified password
+2023-04-07T16:03:19.549Z [winston custom format] info: verified password
+2023-04-07T16:04:33.721Z [winston custom format] info: Success delete operation
+2023-05-11T10:39:41.068Z [winston custom format] info: Success get user operation
+2023-05-11T10:53:49.406Z [winston custom format] info: Success get user operation
+2023-05-11T12:48:53.300Z [winston custom format] info: Success get user operation
+2023-05-11T12:51:00.282Z [winston custom format] info: Success get user operation
+2023-05-11T12:52:59.969Z [winston custom format] info: Success get user operation
+2023-05-11T12:53:15.916Z [winston custom format] info: Success get user operation
+2023-05-11T12:55:55.491Z [winston custom format] info: Success get user operation
+2023-05-11T12:55:59.441Z [winston custom format] info: Success get user operation
+2023-05-11T12:56:03.642Z [winston custom format] info: Success get user operation
+2023-05-11T12:56:24.742Z [winston custom format] info: Success get user operation
+2023-05-11T12:57:41.336Z [winston custom format] info: Success get user operation
+2023-05-11T12:58:19.960Z [winston custom format] info: Success get user operation
+2023-05-11T12:58:24.188Z [winston custom format] info: Success get user operation
+2023-05-11T13:05:10.811Z [winston custom format] info: Success get user operation
+2023-05-11T13:14:31.180Z [winston custom format] info: Success get user operation
+2023-05-11T13:14:33.789Z [winston custom format] info: Success get user operation
+2023-05-11T13:16:03.393Z [winston custom format] info: Success get user operation
+2023-05-11T13:18:58.603Z [winston custom format] info: Success get user operation
+2023-05-11T13:19:38.741Z [winston custom format] info: Success get user operation
+2023-05-11T13:19:42.240Z [winston custom format] info: Success get user operation
+2023-05-11T13:19:54.823Z [winston custom format] info: Success get user operation
+2023-05-11T13:19:56.495Z [winston custom format] info: Success get user operation
+2023-05-11T13:22:14.241Z [winston custom format] info: Success get user operation
+2023-05-11T13:22:38.155Z [winston custom format] info: Success get user operation
+2023-05-11T13:23:14.131Z [winston custom format] info: Success get user operation
+2023-05-11T13:23:15.630Z [winston custom format] info: Success get user operation
+2023-05-11T13:26:11.652Z [winston custom format] info: Success get user operation
+2023-05-11T13:26:12.636Z [winston custom format] info: Success get user operation
+2023-05-11T13:26:12.924Z [winston custom format] info: Success get user operation
+2023-05-11T13:26:13.160Z [winston custom format] info: Success get user operation
+2023-05-11T13:27:56.483Z [winston custom format] info: Success get user operation
+2023-05-11T13:27:57.259Z [winston custom format] info: Success get user operation
+2023-05-11T13:27:57.620Z [winston custom format] info: Success get user operation
+2023-05-11T13:27:58.609Z [winston custom format] info: Success get user operation
+2023-05-11T13:28:56.520Z [winston custom format] info: Success get user operation
+2023-05-11T13:28:57.127Z [winston custom format] info: Success get user operation
+2023-05-11T13:28:57.163Z [winston custom format] info: Success get user operation
+2023-05-11T13:28:57.488Z [winston custom format] info: Success get user operation
+2023-05-11T13:28:57.524Z [winston custom format] info: Success get user operation
+2023-05-11T13:28:57.857Z [winston custom format] info: Success get user operation
+2023-05-11T13:29:56.261Z [winston custom format] info: Success get user operation
+2023-05-11T13:29:57.417Z [winston custom format] info: Success get user operation
+2023-05-11T13:29:58.013Z [winston custom format] info: Success get user operation
+2023-05-11T13:30:08.963Z [winston custom format] info: Success get user operation
+2023-05-11T15:12:13.313Z [winston custom format] info: Success get user operation
+2023-05-11T15:14:12.970Z [winston custom format] info: Success get user operation
+2023-05-11T15:16:20.796Z [winston custom format] info: Success get user operation
+2023-05-11T15:17:37.885Z [winston custom format] info: Success get user operation
+2023-05-11T15:18:10.062Z [winston custom format] info: Success get user operation
+2023-05-11T15:18:12.172Z [winston custom format] info: Success get user operation
+2023-05-11T15:19:06.687Z [winston custom format] info: Success get user operation
+2023-05-11T15:19:20.683Z [winston custom format] info: Success get user operation
+2023-05-11T15:19:52.519Z [winston custom format] info: Success get user operation
+2023-05-11T15:19:55.591Z [winston custom format] info: Success get user operation
+2023-05-11T15:19:56.939Z [winston custom format] info: Success get user operation
+2023-05-11T15:20:08.907Z [winston custom format] info: Success get user operation
+2023-05-11T15:29:00.849Z [winston custom format] info: Success get user operation
+2023-05-11T15:29:08.269Z [winston custom format] info: Success get user operation
+2023-05-11T15:29:11.751Z [winston custom format] info: Success get user operation
+2023-05-11T15:29:13.143Z [winston custom format] info: Success get user operation
+2023-05-11T15:29:13.746Z [winston custom format] info: Success get user operation
+2023-05-11T15:29:30.486Z [winston custom format] info: Success get user operation
+2023-05-11T15:29:31.282Z [winston custom format] info: Success get user operation
+2023-05-11T15:29:33.274Z [winston custom format] info: Success get user operation
+2023-05-11T15:29:47.045Z [winston custom format] info: Success get user operation
+2023-05-11T15:29:48.833Z [winston custom format] info: Success get user operation
+2023-05-11T15:31:03.313Z [winston custom format] info: Success get user operation
+2023-05-11T15:31:20.130Z [winston custom format] info: Success get user operation
+2023-05-11T15:31:36.274Z [winston custom format] info: Success get user operation
+2023-05-11T15:31:39.019Z [winston custom format] info: Success get user operation
+2023-05-11T15:33:54.420Z [winston custom format] info: Success get user operation
+2023-05-11T15:34:32.440Z [winston custom format] info: Success get user operation
+2023-05-11T15:35:10.938Z [winston custom format] info: Success get user operation
+2023-05-11T15:35:31.889Z [winston custom format] info: Success get user operation
+2023-05-11T15:35:47.745Z [winston custom format] info: Success get user operation
+2023-05-11T15:35:50.252Z [winston custom format] info: Success get user operation
+2023-05-11T15:35:51.758Z [winston custom format] info: Success get user operation
+2023-05-11T15:36:54.895Z [winston custom format] info: Success get user operation
+2023-05-11T15:37:30.245Z [winston custom format] info: Success get user operation
+2023-05-11T15:37:31.403Z [winston custom format] info: Success get user operation
+2023-05-11T15:48:59.889Z [winston custom format] info: Success get user operation
+2023-05-11T15:49:05.621Z [winston custom format] info: Success get user operation
+2023-05-11T15:49:06.470Z [winston custom format] info: Success get user operation
+2023-05-11T15:49:07.471Z [winston custom format] info: Success get user operation
+2023-05-11T15:49:08.398Z [winston custom format] info: Success get user operation
+2023-05-11T15:49:18.182Z [winston custom format] info: Success get user operation
+2023-05-11T15:49:20.381Z [winston custom format] info: Success get user operation
+2023-05-11T15:49:22.272Z [winston custom format] info: Success get user operation
+2023-05-11T15:51:15.507Z [winston custom format] info: Success get user operation
+2023-05-11T15:51:26.221Z [winston custom format] info: Success get user operation
+2023-05-11T15:51:32.002Z [winston custom format] info: Success get user operation
+2023-05-11T15:51:33.206Z [winston custom format] info: Success get user operation
+2023-05-11T15:51:59.884Z [winston custom format] info: Success get user operation
+2023-05-11T15:52:18.432Z [winston custom format] info: Success get user operation
+2023-05-11T15:52:20.452Z [winston custom format] info: Success get user operation
+2023-05-11T15:52:41.367Z [winston custom format] info: Success get user operation
+2023-05-11T15:52:43.007Z [winston custom format] info: Success get user operation
+2023-05-11T15:52:44.445Z [winston custom format] info: Success get user operation
+2023-05-11T15:53:36.001Z [winston custom format] info: Success get user operation
+2023-05-11T15:57:42.811Z [winston custom format] info: Success get user operation
+2023-05-11T15:57:43.967Z [winston custom format] info: Success get user operation
+2023-05-11T15:57:45.851Z [winston custom format] info: Success get user operation
+2023-05-11T16:02:58.151Z [winston custom format] info: Success get user operation
+2023-05-11T16:03:05.740Z [winston custom format] info: Success get user operation
+2023-05-11T16:03:07.156Z [winston custom format] info: Success get user operation
+2023-05-11T16:07:20.790Z [winston custom format] info: Success get user operation
+2023-05-11T16:09:47.013Z [winston custom format] info: Success get user operation
+2023-05-11T16:11:17.584Z [winston custom format] info: Success get user operation
+2023-05-11T16:11:28.269Z [winston custom format] info: Success get user operation
+2023-05-11T16:11:37.816Z [winston custom format] info: Success get user operation
+2023-05-11T16:11:39.498Z [winston custom format] info: Success get user operation
+2023-05-11T16:11:53.496Z [winston custom format] info: Success get user operation
+2023-05-11T16:11:55.914Z [winston custom format] info: Success get user operation
+2023-05-11T16:12:24.321Z [winston custom format] info: Success get user operation
+2023-05-11T16:12:26.097Z [winston custom format] info: Success get user operation
+2023-05-11T16:17:37.383Z [winston custom format] info: Success get user operation
+2023-05-11T16:21:57.760Z [winston custom format] info: Success get user operation
+2023-05-11T16:22:02.773Z [winston custom format] info: Success get user operation
+2023-05-11T16:22:22.722Z [winston custom format] info: Success get user operation
+2023-05-11T16:22:26.302Z [winston custom format] info: Success get user operation
+2023-05-11T16:41:12.134Z [winston custom format] info: Success get user operation
+2023-05-11T16:41:14.565Z [winston custom format] info: Success get user operation
+2023-05-15T02:37:59.891Z [winston custom format] error: Error while trying to create try agin <ReferenceError>
+2023-05-15T02:39:04.112Z [winston custom format] info: Success Create user operation
+2023-05-15T02:51:12.578Z [winston custom format] info: Success get user operation
+2023-05-15T02:52:52.741Z [winston custom format] info: Success get user operation
+2023-05-15T02:52:52.778Z [winston custom format] info: Success get user operation
+2023-05-15T02:52:52.940Z [winston custom format] info: Success get user operation
+2023-05-15T02:52:52.978Z [winston custom format] info: Success get user operation
+2023-05-15T02:52:53.213Z [winston custom format] info: Success get user operation
+2023-05-15T02:52:53.245Z [winston custom format] info: Success get user operation
+2023-05-15T02:52:53.800Z [winston custom format] info: Success get user operation
+2023-05-15T02:52:57.746Z [winston custom format] info: Success get user operation
+2023-05-15T02:56:18.986Z [winston custom format] info: Success get user operation
+2023-05-15T02:58:55.154Z [winston custom format] info: Success get user operation
+2023-05-15T02:59:30.222Z [winston custom format] info: Success get user operation
+2023-05-15T03:01:36.960Z [winston custom format] info: Success get user operation
+2023-05-15T03:05:32.807Z [winston custom format] info: Success get user operation
+2023-05-15T03:07:22.533Z [winston custom format] info: Success get user operation
+2023-05-15T03:07:37.641Z [winston custom format] info: Success get user operation
+2023-05-15T03:09:28.812Z [winston custom format] info: Success get user operation
+2023-05-15T03:09:37.410Z [winston custom format] info: Success get user operation
+2023-05-15T03:11:07.432Z [winston custom format] info: Success get user operation
+2023-05-15T03:14:15.016Z [winston custom format] info: Success get user operation
+2023-05-15T03:14:24.666Z [winston custom format] info: Success get user operation
+2023-05-15T03:14:57.737Z [winston custom format] info: Success get user operation
+2023-05-15T03:15:27.536Z [winston custom format] info: Success get user operation
+2023-05-15T03:15:43.650Z [winston custom format] info: Success get user operation
+2023-05-15T04:07:57.731Z [winston custom format] error: Error while trying to create try agin <ReferenceError>
+2023-05-15T04:08:14.825Z [winston custom format] error: Error while trying to create try agin <ReferenceError>
+2023-05-15T04:09:35.287Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-15T04:10:19.260Z [winston custom format] info: Success Create user operation
+2023-05-15T04:11:57.633Z [winston custom format] info: Success get user operation
+2023-05-15T04:41:21.187Z [winston custom format] info: Success get user operation
+2023-05-15T05:16:52.972Z [winston custom format] info: Success get user operation
+2023-05-15T05:20:55.293Z [winston custom format] info: Success get user operation
+2023-05-15T05:20:57.918Z [winston custom format] info: Success get user operation
+2023-05-15T05:29:36.362Z [winston custom format] info: Success get user operation
+2023-05-15T05:30:51.052Z [winston custom format] info: Success get user operation
+2023-05-15T05:48:03.659Z [winston custom format] info: Success get user operation
+2023-05-15T05:50:17.607Z [winston custom format] info: Success get user operation
+2023-05-15T05:50:30.763Z [winston custom format] info: Success get user operation
+2023-05-15T06:08:45.328Z [winston custom format] info: Success get user operation
+2023-05-15T06:10:51.911Z [winston custom format] info: Success get user operation
+2023-05-15T06:11:10.082Z [winston custom format] info: Success get user operation
+2023-05-15T06:11:56.579Z [winston custom format] info: Success get user operation
+2023-05-15T06:12:46.914Z [winston custom format] info: Success get user operation
+2023-05-15T06:12:47.673Z [winston custom format] info: Success get user operation
+2023-05-15T06:13:20.758Z [winston custom format] info: Success get user operation
+2023-05-15T06:14:42.613Z [winston custom format] info: Success get user operation
+2023-05-15T06:14:42.641Z [winston custom format] info: Success get user operation
+2023-05-15T06:14:43.499Z [winston custom format] info: Success get user operation
+2023-05-15T06:37:36.390Z [winston custom format] info: Success get user operation
+2023-05-15T06:37:37.731Z [winston custom format] info: Success get user operation
+2023-05-15T06:38:40.482Z [winston custom format] info: Success get user operation
+2023-05-15T06:39:45.545Z [winston custom format] info: Success get user operation
+2023-05-15T06:39:58.549Z [winston custom format] info: Success get user operation
+2023-05-15T06:39:59.571Z [winston custom format] info: Success get user operation
+2023-05-15T06:39:59.858Z [winston custom format] info: Success get user operation
+2023-05-15T06:48:29.508Z [winston custom format] info: Success get user operation
+2023-05-15T06:48:32.766Z [winston custom format] info: Success get user operation
+2023-05-15T06:51:43.269Z [winston custom format] info: Success get user operation
+2023-05-15T06:51:48.704Z [winston custom format] info: Success get user operation
+2023-05-15T07:33:01.346Z [winston custom format] info: Success Create user operation
+2023-05-15T07:33:16.046Z [winston custom format] info: Success Create user operation
+2023-05-15T07:34:14.835Z [winston custom format] info: Success Create user operation
+2023-05-15T07:34:26.327Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-15T07:36:45.669Z [winston custom format] info: Success Create user operation
+2023-05-15T07:38:08.508Z [winston custom format] info: Success Create user operation
+2023-05-15T07:39:29.522Z [winston custom format] info: Success Create user operation
+2023-05-15T07:47:43.099Z [winston custom format] info: Success Create user operation
+2023-05-15T16:24:32.022Z [winston custom format] info: Success Create user operation
+2023-05-15T16:26:09.221Z [winston custom format] info: verified password
+2023-05-15T16:35:44.485Z [winston custom format] error: Not verified token
+2023-05-16T06:49:00.877Z [winston custom format] info: Success Create user operation
+2023-05-16T07:19:07.140Z [winston custom format] info: Success get user operation
+2023-05-16T07:20:16.802Z [winston custom format] info: Success get user operation
+2023-05-16T07:20:19.121Z [winston custom format] info: Success get user operation
+2023-05-16T08:55:42.833Z [winston custom format] error: Not verified token
+2023-05-16T08:56:28.689Z [winston custom format] info: verified password
+2023-05-16T09:21:06.359Z [winston custom format] error: Not verified token
+2023-05-16T09:21:31.501Z [winston custom format] info: verified password
+2023-05-16T09:22:44.908Z [winston custom format] info: verified password
+2023-05-16T11:05:11.489Z [winston custom format] error: Not verified token
+2023-05-16T11:05:28.958Z [winston custom format] info: verified password
+2023-05-16T11:08:06.361Z [winston custom format] info: verified password
+2023-05-16T11:26:25.534Z [winston custom format] error: Not verified token
+2023-05-16T11:28:26.389Z [winston custom format] info: verified password
+2023-05-16T11:29:47.328Z [winston custom format] info: Success get user operation
+2023-05-16T11:29:49.037Z [winston custom format] info: Success get user operation
+2023-05-16T11:29:49.849Z [winston custom format] info: Success get user operation
+2023-05-16T11:30:01.335Z [winston custom format] info: Success get user operation
+2023-05-16T11:31:25.926Z [winston custom format] info: verified password
+2023-05-16T11:32:22.143Z [winston custom format] info: Success get user operation
+2023-05-16T11:40:15.037Z [winston custom format] info: verified password
+2023-05-16T11:48:32.495Z [winston custom format] info: Success Create user operation
+2023-05-16T11:57:17.132Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T11:57:26.329Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T11:57:42.632Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T11:57:43.050Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T11:57:51.910Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T11:57:56.300Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T11:58:34.281Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T11:58:53.322Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T11:59:08.554Z [winston custom format] info: Success Create user operation
+2023-05-16T12:09:49.870Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T12:09:55.304Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T12:12:03.614Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T12:15:04.298Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T12:20:33.071Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T12:22:02.805Z [winston custom format] info: Success Create user operation
+2023-05-16T17:51:34.745Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T17:51:54.671Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T17:52:36.068Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-16T17:53:00.319Z [winston custom format] info: Success Create user operation
+2023-05-16T17:53:39.635Z [winston custom format] info: Success get user operation
+2023-05-27T09:05:06.429Z [winston custom format] info: Success Create user operation
+2023-05-27T09:07:07.825Z [winston custom format] info: Success get user operation
+2023-05-27T09:32:28.789Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T09:33:27.716Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T09:33:59.818Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T09:34:38.186Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T09:35:25.957Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T09:36:24.341Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T09:36:28.628Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T09:37:53.399Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T09:37:54.201Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T09:37:55.870Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T09:38:24.841Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T09:38:58.931Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T09:40:18.356Z [winston custom format] info: Success Create user operation
+2023-05-27T09:40:26.602Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T09:40:30.942Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T09:40:39.953Z [winston custom format] info: Success Create user operation
+2023-05-27T09:40:45.372Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T09:55:48.989Z [winston custom format] info: Success Create user operation
+2023-05-27T09:55:58.285Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T10:41:37.416Z [winston custom format] error: Error while trying to create try agin <MongooseServerSelectionError>
+2023-05-27T10:41:46.805Z [winston custom format] error: Error while trying to create try agin <MongooseServerSelectionError>
+2023-05-27T10:41:55.750Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T10:42:21.705Z [winston custom format] info: Success Create user operation
+2023-05-27T10:46:21.912Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T10:46:30.314Z [winston custom format] info: Success Create user operation
+2023-05-27T10:49:03.196Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T10:49:03.236Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T10:49:03.368Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T10:49:03.416Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T10:49:03.814Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T10:49:03.825Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T10:49:04.115Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T10:49:04.155Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T10:49:16.775Z [winston custom format] info: Success Create user operation
+2023-05-27T10:49:58.676Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T10:50:25.199Z [winston custom format] info: Success Create user operation
+2023-05-27T10:50:51.717Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-05-27T11:10:45.569Z [winston custom format] info: Success Create user operation
+2023-05-27T12:16:28.573Z [winston custom format] info: Success get user operation
+2023-05-27T12:25:41.438Z [winston custom format] info: Success get user operation
+2023-05-27T12:26:25.538Z [winston custom format] info: Success Create user operation
+2023-05-27T14:30:42.452Z [winston custom format] info: Success get user operation
+2023-05-27T14:31:00.941Z [winston custom format] info: Success get user operation

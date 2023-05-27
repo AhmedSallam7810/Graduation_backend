@@ -1,0 +1,21 @@
+We use eslint configrition 
+
+for more details => https://eslint.org/docs/latest/use/getting-started
+
+using bycript for password hashing 
+
+<- main step ->
+create cluster <done>
+connect database <done>
+create schema  <done>
+create route <get post delete put> <done>
+create controller <logIn signUP....> <done>
+add HandelError <done>
+add Auth <jwt> <done>
+add logger <done>
+add audit ...!
+swigger 
+unit test 
+
+image
+cookies
