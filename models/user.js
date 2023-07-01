@@ -37,8 +37,8 @@ const userSchema = new mongoose.Schema(
 );
 // bcrypt passwords
 userSchema.pre("save", async function (next) {
-  const salt = await bcrypt.genSalt();
-  this.password = await bcrypt.hash(this.password, salt);
+  // const salt = await bcrypt.genSalt();
+  // this.password = await bcrypt.hash(this.password, salt);
   next();
 });
 // auth that user is loged
@@ -54,7 +54,7 @@ userSchema.statics.loginAuth = async function (email, password = "forget") {
       if (passwordAuth) {
         return user;
       } else {
-        throw new apiError("Incorrect password", 400);
+        throw new apiError(`Incorrect password `, 400);
       }
     } else {
       throw new apiError("Incorrect Email", 400);

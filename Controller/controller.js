@@ -65,10 +65,10 @@ const getSpecificUser = asyncHandler(async (req, res, next) => {
     const token = createToken(email, password);
     console.log(user);
 
-    res.cookie("userjwt", token, {
-      httpOnly: true,
-      maxAge: 3 * 24 * 60 * 60 * 1000,
-    });
+    // res.cookie("userjwt", token, {
+    //   httpOnly: true,
+    //   maxAge: 3 * 24 * 60 * 60 * 1000,
+    // });
 
     res.status(200).json({ user });
     log.info("Success get user operation");
@@ -140,7 +140,7 @@ const forgot = asyncHandler(async (req, res, next) => {
       email,
       id: user.id,
     };
-    const token = jwt.sign(payload, secret, { expiresIn: "10m" });
+    const token = jwt.sign(payload, secret, { expiresIn: "100m" });
     const link = `${process.env.BASE_URL}/reset-password/${user.id}/${token}`;
     // console.log(sendEmail);
     const send = sendEmail(email, link);
@@ -182,6 +182,7 @@ const PostReset = asyncHandler(async (req, res, next) => {
       if (password === confirm) {
         const salt = await bcrypt.genSalt();
         const bypassword = await bcrypt.hash(password, salt);
+
         user.password = bypassword;
         user.save();
         res.send(user);

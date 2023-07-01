@@ -433,3 +433,51 @@
 2023-05-27T12:26:25.538Z [winston custom format] info: Success Create user operation
 2023-05-27T14:30:42.452Z [winston custom format] info: Success get user operation
 2023-05-27T14:31:00.941Z [winston custom format] info: Success get user operation
+2023-05-28T11:06:16.570Z [winston custom format] info: Success get user operation
+2023-05-28T11:07:18.847Z [winston custom format] info: Success Create user operation
+2023-05-28T11:07:50.685Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-07-01T18:28:50.456Z [winston custom format] info: verified password
+2023-07-01T19:14:15.762Z [winston custom format] error: Not verified token
+2023-07-01T19:17:24.145Z [winston custom format] error: Not verified token
+2023-07-01T19:18:46.201Z [winston custom format] error: Not verified token
+2023-07-01T19:19:44.113Z [winston custom format] info: verified password
+2023-07-01T19:22:35.538Z [winston custom format] error: Not verified token
+2023-07-01T19:22:56.326Z [winston custom format] error: Not verified token
+2023-07-01T19:22:59.546Z [winston custom format] error: Not verified token
+2023-07-01T19:22:59.851Z [winston custom format] error: Not verified token
+2023-07-01T19:23:04.472Z [winston custom format] error: Not verified token
+2023-07-01T19:23:43.744Z [winston custom format] info: verified password
+2023-07-01T19:26:48.245Z [winston custom format] info: Success Create user operation
+2023-07-01T19:28:03.305Z [winston custom format] info: Success Create user operation
+2023-07-01T19:28:20.206Z [winston custom format] info: Success get user operation
+2023-07-01T19:28:35.591Z [winston custom format] info: Success get user operation
+2023-07-01T19:31:29.137Z [winston custom format] info: Success Create user operation
+2023-07-01T19:31:46.153Z [winston custom format] info: Success get user operation
+2023-07-01T19:32:12.490Z [winston custom format] info: verified password
+2023-07-01T19:41:39.932Z [winston custom format] error: This email already in dataBase<MongoServerError>
+2023-07-01T19:43:40.377Z [winston custom format] info: Success Create user operation
+2023-07-01T19:43:52.115Z [winston custom format] info: Success get user operation
+2023-07-01T19:46:21.971Z [winston custom format] info: Success Create user operation
+2023-07-01T19:46:38.703Z [winston custom format] info: Success get user operation
+2023-07-01T19:52:25.563Z [winston custom format] info: Success Create user operation
+2023-07-01T19:54:55.748Z [winston custom format] error: Not verified token
+2023-07-01T19:56:10.434Z [winston custom format] info: verified password
+2023-07-01T20:07:50.906Z [winston custom format] error: Not verified token
+2023-07-01T20:11:17.737Z [winston custom format] info: verified password
+2023-07-01T20:13:42.414Z [winston custom format] info: verified password
+2023-07-01T20:24:32.105Z [winston custom format] info: verified password
+2023-07-01T20:28:12.630Z [winston custom format] error: Not verified token
+2023-07-01T20:29:15.194Z [winston custom format] info: verified password
+2023-07-01T20:47:15.088Z [winston custom format] info: verified password
+2023-07-01T21:04:44.977Z [winston custom format] info: verified password
+2023-07-01T21:12:25.688Z [winston custom format] info: verified password
+2023-07-01T21:14:34.670Z [winston custom format] info: verified password
+2023-07-01T21:20:22.598Z [winston custom format] info: verified password
+2023-07-01T21:28:04.011Z [winston custom format] info: verified password
+2023-07-01T21:28:46.762Z [winston custom format] error: Not verified token
+2023-07-01T21:29:06.875Z [winston custom format] info: verified password
+2023-07-01T21:29:15.890Z [winston custom format] error: Not verified token
+2023-07-01T21:29:48.821Z [winston custom format] error: Not verified token
+2023-07-01T21:31:07.553Z [winston custom format] info: Success get user operation
+2023-07-01T21:32:19.332Z [winston custom format] info: verified password
+2023-07-01T21:33:08.021Z [winston custom format] info: Success get user operation
